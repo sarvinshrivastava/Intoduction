@@ -39,9 +39,9 @@ I'm a **Pre-final year B.Tech student** at **KIET Group of Institutions** with a
 ![Static Badge](https://img.shields.io/badge/flutter-flutter?style=for-the-badge&logo=flutter&logoSize=auto&labelColor=%23273948&color=%23273948&logoColor=%233da37a)
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarvinshrivastava&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-![sarvinshrivastava's Stats](https://github-readme-stats.vercel.app/api?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![sarvinshrivastava's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=sarvinshrivastava&theme=vue-dark&hide_border=true" alt="Streak">
+<img src="https://github-readme-stats.vercel.app/api?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
 
 
 ---
