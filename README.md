@@ -42,7 +42,3 @@ I'm a **Pre-final year B.Tech student** at **KIET Group of Institutions** with a
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lime-omega.vercel.app?user=sarvinshrivastava&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Stats"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
-
-
----
-💡 *Always exploring new ways to innovate & build cool things in tech!* 🚀  
